@@ -2,8 +2,24 @@
 
 body
 {
-    background-color: hsla(165, 81%, 93%, 0.5);
+    background-color: #dddddd;
     color: rgba(0, 0, 0, 1)
+}
+
+div#interface
+{
+    width: 1000px;
+    background-color: #ffffff;
+    margin: -20px auto 0px auto; /* cima direita baixo esquerda*/
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, .5);
+    padding: 10px;
+}
+
+header#cabecalho img#icone
+{
+    position: absolute;
+    top: 40px;
+    left: 990px;
 }
 
 p
