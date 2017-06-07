@@ -168,6 +168,37 @@ table#tabela-spec td
     padding: 10px;
 }
 
+table#tabela-spec td.ce
+{
+    color: #ffffff;
+    background-color: #606060;
+    vertical-align: top;
+    text-align: right;
+    font-weight: bold;
+}
+
+table#tabela-spec caption
+{
+    color: #888888;
+    font-size: 13pt;
+    font-weight: bolder;
+}
+
+table#tabela-spec caption span#data
+{
+    display: block;
+    float: right;
+    color: #000000;
+    font-size: 8pt;
+    margin-top: 10px;
+}
+
+table#tabela-spec td.cd
+{
+    background-color: #cecece;
+
+}
+
 aside#lateral
 {
     display: block;
