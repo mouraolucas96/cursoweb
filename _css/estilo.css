@@ -20,6 +20,11 @@ div#interface
     padding: 10px;
 }
 
+div#interface a
+{
+    color: #000000;
+}
+
 header#cabecalho img#icone
 {
     position: absolute;
@@ -147,6 +152,20 @@ section#corpo
     float: left;
     border-right: 1px solid #606060;
     padding-right: 20px;
+}
+
+table#tabela-spec
+{
+    border: 1px solid #606060;
+    border-spacing: 0px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+table#tabela-spec td
+{
+    border: 1px solid #606060;
+    padding: 10px;
 }
 
 aside#lateral
