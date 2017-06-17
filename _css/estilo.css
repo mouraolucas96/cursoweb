@@ -166,6 +166,14 @@ section#corpo
     padding-right: 20px;
 }
 
+video#video-corpo
+{
+    display: block;
+    width: 570px;
+    position: relative;
+    margin: auto;
+}
+
 article#noticia-principal h2
 {
     font-size: 12pt;
@@ -273,6 +281,14 @@ aside#lateral h2
     color: #ffffff;
     padding: 5px 0px 5px 10px;
     margin: 10px 0px 10px 0px;
+}
+
+video#video-lateral
+{
+    display: block;
+    width: 365px;
+    position: relative;
+    margin: auto;
 }
 
 footer#rodape
